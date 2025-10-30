@@ -159,6 +159,6 @@ Uma tarefa ou história de usuário é considerada **concluída** quando cumpre 
 --- 
 
 ## 🗒 Manual do Usuário
-- [Manual do Usuário](https://github.com/TheVarella/Manual-do-Sistema)
+- [Manual do Usuário](https://github.com/Felipe00702/Manual-do-Usu-rio-)
 
 
